@@ -7,3 +7,5 @@ text for the "feature" branch
 second text for the "feature" branch
 
 new textline for MAIN
+Conflict line
+
