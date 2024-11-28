@@ -9,3 +9,4 @@ second text for the "feature" branch
 new textline for MAIN
 Conflict line
 
+for git tag
