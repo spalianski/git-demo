@@ -4,4 +4,4 @@
 666 666
 777 777
 text for the "feature" branch
-second text for the "feature" branch
+Conflict line
